@@ -1,3 +1,7 @@
 spring:
     application:
         name: myportfolio
+    data:
+        mongodb:
+            uri: mongodb+srv://abhijithlalharivaram:<Abhijithabhi@2001>@portfolio.ldwmk.mongodb.net/?retryWrites=true&w=majority&appName=portfolio
+#need to check the configuration here
