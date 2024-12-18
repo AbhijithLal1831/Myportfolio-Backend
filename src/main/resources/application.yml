@@ -4,5 +4,5 @@ spring:
     data:
         mongodb:
             uri: mongodb+srv://abhijithlalharivaram:<Abhijithabhi%402001>@portfolio.ldwmk.mongodb.net/?retryWrites=true&w=majority&appName=portfolio
-            database: projects
+            database: myportfolio
 
